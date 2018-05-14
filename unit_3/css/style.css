@@ -1,7 +1,20 @@
 body {
-    background-color: yellow;
+    background-color: white;
+    font-family: Open Sans:;
+    font-size: 11;
+    text-align: left;
+    font-weight: 18;
 }
 
-h1, p {
-    color: #a82281;
+h1 {
+    color: #296F2A;
+    font-size: 20;
+    text-align: left;
+    font-family: Open Sans;
+    font-weight: 18;
 }
+
+#tagline {
+	font-style: italic
+}
+
