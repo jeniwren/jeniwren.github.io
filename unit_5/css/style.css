@@ -1,17 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
 
 
-body {
-    background-color:;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 12;
-    text-align: left;
-    font-weight: 18;
-    line-height: 2em;
-    margin: 30px;
-    margin-right: 205px
-}
-
 h1 {
     color: #296F2A;
     font-size: 30;
@@ -27,7 +16,7 @@ h2 {
     font-weight: 18;
     line-height: 2em;
 }
-div class = "wrapper" {
+div {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
