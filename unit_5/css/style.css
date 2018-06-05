@@ -2,7 +2,7 @@
 
 
 body {
-    background-color: white;
+    background-color:;
     font-family: 'Open Sans', sans-serif;
     font-size: 12;
     text-align: left;
@@ -27,7 +27,7 @@ h2 {
     font-weight: 18;
     line-height: 2em;
 }
-div = wrapper {
+div class = "wrapper" {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
@@ -38,8 +38,7 @@ header {
     padding: 20px;
 }
 nav {
-    wrapper {
-    background-color: [#E8C66A;
+    background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
 }
