@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
 * { margin:0; padding:0; box-sizing:border-box; }
 
-
-background-image: src="images/tan_rug.png";
 background-repeat: no-repeat;
 background-position: center center;
 background-attachment: fixed;
