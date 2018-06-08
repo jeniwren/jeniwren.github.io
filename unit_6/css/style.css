@@ -11,6 +11,20 @@
     font-size:20px;
     font-weight:400;
     line-height:2;
+    background: url ('images/tan_rug.png') no-repeat center center fixed; 
+
+}
+.subhead {
+
+
+
+}
+.intro {
+    color:#333;
+    font-family: 'Open Sans', sans-serif;
+    font-size:20px;
+    font-weight:400;
+    line-height:2;
 }
 .nav {
     float: left;
