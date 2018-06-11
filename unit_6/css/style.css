@@ -10,7 +10,7 @@
     line-height:2;
     margin: 400px;
 }
-.intro > * {
+.intro {
     color:#333;
     font-family: 'Open+Sans', sans-serif;
     font-size:4em;
@@ -18,20 +18,23 @@
     line-height:2;
 }
 .nav {
-    float: left;
-    padding: 2em;
+    position: right;
+    padding: 4em;
     font-family: 'Open+Sans', sans-serif;
     font-size:10px;
     font-weight:300;
     position: center;
 
 }
-h1 > * {
+h1 {
     color: #296F2A;
     font-size: 6em;
     text-align: left;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
+    max-width: 1200px;
+    margin: auto;
+    padding: 4em 0;
 }
 h2 {
     font-size:1.5em;
