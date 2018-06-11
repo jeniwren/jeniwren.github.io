@@ -6,7 +6,7 @@ nav {
     font-family: 'Open+Sans', sans-serif;
     font-size:12px;
     font-weight:300;
-    padding: 2em;
+    padding: 0;
 }
 p {
     color:#333;
@@ -15,11 +15,11 @@ p {
     font-weight:300;
     line-height:1.5;
     padding: 0;
-    margin: 2em;
+    margin: 0;
 }
 .logo {
     position: left;
-    padding: 2em;
+    padding: 0;
 }
 #intro {
     color:#333;
@@ -34,7 +34,7 @@ h1 {
     text-align: left;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    margin: 2em;
+    margin: 0;
 }
 h2 {
     color: #296F2A;
@@ -42,7 +42,7 @@ h2 {
     text-align: left;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    margin: 2em;
+    margin: 0;
 }
 .stages {
     max-width:1200px;
