@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto:500')
+
 * { margin:0; padding:0; box-sizing:border-box; }
 
 .html { 
@@ -7,17 +9,12 @@
 
 .body {
     color:#333;
-    font-family: 'Open Sans', sans-serif;
-    font-size:20px;
-    font-weight:400;
+    font-family: 'Open+Sans', sans-serif;
+    font-size:5em;
+    font-weight:300;
     line-height:2;
     background: url ('images/tan_rug.png') no-repeat center center fixed; 
-
-}
-.subhead {
-
-
-
+    margin: 200px, 100px, 100px, 100px;
 }
 .intro {
     color:#333;
@@ -37,14 +34,21 @@
 }
 h1 {
     color: #296F2A;
-    font-size: 5em;
+    font-size: 9em;
     text-align: left;
-    font-family: 'Open+Sans', sans-serif;
-    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
 }
 h2 {
     font-size:1.5em;
 }
+.subhead {
+    color: #296F2A;
+    font-size: 4em;
+    text-align: left;
+    font-family: 'Open+Sans', sans-serif;
+    font-weight: 300;
+
 .stages {
     max-width:1200px;
     margin:auto;
@@ -52,7 +56,8 @@ h2 {
     font-family: 'Open Sans', sans-serif;
     font-size:16px;
     font-weight:400;
-    line-height:1.8;
+    line-height:1.8
+    background-color: grey;
 }
 .stages > * {
     float: left;
