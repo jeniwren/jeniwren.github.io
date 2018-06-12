@@ -7,7 +7,7 @@ nav {
     font-size:12px;
     font-weight:300;
 }
-p {
+*/p {
     color:#333;
     font-family: 'Open+Sans', sans-serif;
     font-size:20px;
@@ -20,7 +20,7 @@ body, header {
 #intro {
     color:#333;
     font-family: 'Open+Sans', sans-serif;
-    font-size:20px;
+    font-size:30px;
     font-weight:300;
     line-height:2;
 }
@@ -39,7 +39,7 @@ h2 {
     font-weight: 500;
 }
 .blocks {
-    width: 25%;
+    width: 15%;
 }
 .stages {
     max-width:1200px;
