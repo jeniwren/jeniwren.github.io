@@ -9,6 +9,7 @@ nav {
 }
 body, header {
     margin: 20px;
+    background-color: #ddfffd;
 }
 #intro {
     color:#333;
@@ -37,12 +38,12 @@ h2 {
 .stages {
     max-width:1200px;
     margin:auto;
-    padding: 4em 0;
+    padding: 0;
     font-family: 'Open+Sans', sans-serif;
     font-size:16px;
     font-weight:300;
     line-height:1.8
-    border: black;
+    border: 1px black solid;
 }
 .stages > * {
     float: left;
