@@ -38,6 +38,9 @@ h2 {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
 }
+.blocks {
+    width: 25%;
+}
 .stages {
     max-width:1200px;
     margin:auto;
