@@ -2,13 +2,26 @@
 
 * { margin:0; padding:0; box-sizing:border-box; }
 nav {
+    font-family: 'Open+Sans'; sans-serif;
+    position: right;
+    font-size:8px;
+    font-weight:300;
+    padding: 5px;
+}
+a {
+    background-color: none;
+    color: #333
+    text-decoration: none;
+}
+a:hover {
+    background: #fc9323;
+
+}
+p{
     position: right;
     font-family: 'Open+Sans', sans-serif;
     font-size:12px;
-    font-weight:300;
-}
-p{
-    padding: 5px;
+    font-weight:300;padding: 5px;
 }
 body {
     margin: 20px;
