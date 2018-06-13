@@ -3,7 +3,7 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 nav {
     float: right;
-    font-size:12px;
+    font-size: 12px;
     padding: 20px;
 }
 a {
@@ -18,15 +18,17 @@ body {
     margin: 20px;
     background-color: #ddfffd;
     font-family: 'Open Sans', sans-serif;
-    font-size:20px;
-    font-weight:300;
+    font-size: 20px;
+    font-weight: 300;
 }
 #intro {
     color:#333;
     font-size:30px;
-    line-height:2;
+    line-height:1.5;
     width: 1200px;
     float: left;
+    width: 50%;
+    padding-right: 1em;
 }
 h1 {
     color: #fc9323;
