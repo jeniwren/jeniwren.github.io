@@ -20,14 +20,21 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-weight: 300;
-}
-#intro > div{
     color:#333;
+    line-height: 1.3em;
+}
+#intro {
     font-size:30px;
     line-height:1.5;
     float: left;
     width: 50%;
-    padding: 10px;
+}
+#intro > * {
+    float: left;
+    width: 50%;
+}
+#intro > div{
+    padding: 4em;
 }
 h1 {
     color: #fc9323;
