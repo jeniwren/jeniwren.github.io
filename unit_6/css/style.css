@@ -4,7 +4,7 @@
 nav {
     float: right;
     font-size: 15px;
-    padding: 30px;
+    padding: 0 4em 0 0;
 }
 a {
     background-color: none;
@@ -58,7 +58,7 @@ footer {
     padding: 20px;
     clear: both;
 }
-.clearfix:after, .stages:after .nav:after {
+.clearfix:after, .stages:after .nav:after #intro:after {
     clear:both;
     display:block;
     content:"";
